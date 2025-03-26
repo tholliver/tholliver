@@ -1,7 +1,7 @@
 ## Miguel MV
 ### Backend Developer, database designer
 
-[Not much to tell here, check this section [Projects](#projects) ]
+Automating and simplifying tasks while building side projects and gaining new skills. [Projects](#projects)
 
 ## About Me
 
